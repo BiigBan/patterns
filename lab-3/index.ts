@@ -384,8 +384,6 @@ class ProfessorsFactory {
   }
 }
 
-
-
 const enroll = new Enroll();
 const factoryCourse = new CourseFactory();
 const mathCourse = factoryCourse.create("DataBase");
